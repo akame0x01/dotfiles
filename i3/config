@@ -19,7 +19,7 @@ set $rofi ~/.config/rofi/launchers
 
 ### Assign workspaces
 for_window [class="firefox"] move to workspace $ws2
-for_window [class="term-f"] floating enable, resize set 600px 500px; move right 20 ppt move up 10 ppt
+for_window [class="term-f"] floating enable, resize set 600px 500px; 
 for_window [class="^.*"] border pixel 3
 
 gaps inner 10
