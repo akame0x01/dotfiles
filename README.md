@@ -12,4 +12,4 @@ dotfiles of my dear **Arch Linux** setup, my main tasks using this environment a
 
 ### Demo
 
-![](./ricing_with_i3.PNG)
+![](./i3_ricing.png)
